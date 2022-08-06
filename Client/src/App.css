@@ -1,0 +1,35 @@
+.table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+
+}
+
+input {
+    text-align: center;
+}
+
+th {
+    background-color: #04AA6D;
+    color: white;
+    text-align: center;
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+    background-color: coral;
+}
+
+button{
+    margin-top: 17px;
+    margin-left: 9px;
+}

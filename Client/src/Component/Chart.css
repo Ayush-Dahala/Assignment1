@@ -1,0 +1,11 @@
+.userLost{
+    display: flex;
+    flex-direction: row;
+}
+
+.userData{
+    margin-left: 240px;
+}
+.userLost{
+    margin-left: 228px;
+}
